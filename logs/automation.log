@@ -1,0 +1,39 @@
+2024-09-18 21:16:59 INFO  TC01_AccountRegistration:16 - TC01 Account Registration is started
+2024-09-18 21:16:59 INFO  TC01_AccountRegistration:24 - Click on My Account link
+2024-09-18 21:16:59 INFO  TC01_AccountRegistration:27 - Click on Register link
+2024-09-18 21:16:59 INFO  TC01_AccountRegistration:31 - Providing customer information
+2024-09-18 21:17:02 INFO  TC01_AccountRegistration:43 - Validating expected message
+2024-09-18 21:17:02 INFO  TC01_AccountRegistration:48 - Test passed
+2024-09-18 21:17:02 INFO  TC01_AccountRegistration:60 - TC01 Account Registration is finished
+2024-09-18 21:17:07 INFO  TC02_LoginTest:17 - **** Starting TC02_LoginTest  ****
+2024-09-18 21:17:09 INFO  TC02_LoginTest:26 - clicked on myaccount link on the home page..
+2024-09-18 21:17:09 INFO  TC02_LoginTest:28 - clicked on login link under myaccount..
+2024-09-18 21:17:09 INFO  TC02_LoginTest:33 - Entering valid email and password..
+2024-09-18 21:17:11 INFO  TC02_LoginTest:37 - clicked on ligin button..
+2024-09-18 21:17:11 INFO  TC02_LoginTest:51 - **** Finished TC02_LoginTest  ****
+2024-09-18 21:42:42 INFO  TC01_AccountRegistration:16 - TC01 Account Registration is started
+2024-09-18 21:42:42 INFO  TC01_AccountRegistration:24 - Click on My Account link
+2024-09-18 21:42:43 INFO  TC01_AccountRegistration:27 - Click on Register link
+2024-09-18 21:42:43 INFO  TC01_AccountRegistration:31 - Providing customer information
+2024-09-18 21:42:46 INFO  TC01_AccountRegistration:43 - Validating expected message
+2024-09-18 21:42:46 INFO  TC01_AccountRegistration:48 - Test passed
+2024-09-18 21:42:46 INFO  TC01_AccountRegistration:60 - TC01 Account Registration is finished
+2024-09-18 21:42:51 INFO  TC02_LoginTest:17 - **** Starting TC02_LoginTest  ****
+2024-09-18 21:42:53 INFO  TC02_LoginTest:26 - clicked on myaccount link on the home page..
+2024-09-18 21:42:53 INFO  TC02_LoginTest:28 - clicked on login link under myaccount..
+2024-09-18 21:42:53 INFO  TC02_LoginTest:33 - Entering valid email and password..
+2024-09-18 21:42:55 INFO  TC02_LoginTest:37 - clicked on ligin button..
+2024-09-18 21:42:55 INFO  TC02_LoginTest:51 - **** Finished TC02_LoginTest  ****
+2024-09-18 21:49:23 INFO  TC01_AccountRegistration:16 - TC01 Account Registration is started
+2024-09-18 21:49:24 INFO  TC01_AccountRegistration:24 - Click on My Account link
+2024-09-18 21:49:25 INFO  TC01_AccountRegistration:27 - Click on Register link
+2024-09-18 21:49:25 INFO  TC01_AccountRegistration:31 - Providing customer information
+2024-09-18 21:49:26 INFO  TC01_AccountRegistration:43 - Validating expected message
+2024-09-18 21:49:26 INFO  TC01_AccountRegistration:48 - Test passed
+2024-09-18 21:49:26 INFO  TC01_AccountRegistration:60 - TC01 Account Registration is finished
+2024-09-18 21:49:31 INFO  TC02_LoginTest:17 - **** Starting TC02_LoginTest  ****
+2024-09-18 21:49:33 INFO  TC02_LoginTest:26 - clicked on myaccount link on the home page..
+2024-09-18 21:49:33 INFO  TC02_LoginTest:28 - clicked on login link under myaccount..
+2024-09-18 21:49:33 INFO  TC02_LoginTest:33 - Entering valid email and password..
+2024-09-18 21:49:35 INFO  TC02_LoginTest:37 - clicked on ligin button..
+2024-09-18 21:49:35 INFO  TC02_LoginTest:51 - **** Finished TC02_LoginTest  ****
